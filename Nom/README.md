@@ -8,10 +8,10 @@
 ## 2. Art'sène Lupin ##
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Logo, idées   | Familiarisation avec l'univers  |
+| Costumes qui déchirent  | Content Cell  |
 ## 3. Bonap'art ##
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Nom qui claque  | Trop politisé  |
+| Logo stylé  | Il faut penser aussi au publique étranger  |
